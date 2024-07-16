@@ -1,0 +1,7 @@
+remove everyting form return in page.tsx 
+remove everything except top 3 lines from globals.css
+
+
+// routing in nextjs 
+next has optines routing protocal 
+which is file based routing 
